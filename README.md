@@ -17,12 +17,12 @@ OR-Tools related reading materials.
 
 #### Official
 Google produced reading materials
-- [Documentation](https://developers.google.com/optimization/)
-- [Ref Documentations](https://google.github.io/or-tools/)
-- [Mailing-list](https://groups.google.com/g/or-tools-discuss) Official Mailing list.
+- [Online Documentation](https://developers.google.com/optimization/).
+- [References Documentations](https://google.github.io/or-tools/).
+- [or-tools-discuss](https://groups.google.com/g/or-tools-discuss) Official Mailing list.
 - [GitHub Discussion](https://github.com/google/or-tools/discussions) (beta).
 - [Discord Channel](https://discord.gg/ENkQrdf) Official Chat.
-- [OR-Tools Blog](https://or-tools.blogspot.com/) unmaintained.
+- [OR-Tools Blog](https://or-tools.blogspot.com/) unmaintained blog.
 
 #### Community
 Community produced reading materials
@@ -31,7 +31,7 @@ Community produced reading materials
 - [Activimetrics's Blog](https://activimetrics.com/tags/google-or-tools/) Mostly routing related stuff.
 
 #### Internal
-Reading materials relatoed to OR-Tools internals
+Reading materials related to OR-Tools internals.
 
 Build systems:
 - [CMake Based Build](https://github.com/google/or-tools/blob/master/cmake/README.md).
@@ -44,7 +44,7 @@ Wrappers:
 - [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md)
 
 ### Samples
-Samples or Models from the community
+Samples and models from the community.
 
 #### Basic samples
 Few canonical samples to advertise basic features of each module, There are usually written in all supported languages.
