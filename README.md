@@ -23,11 +23,12 @@ Google produced reading materials
 - [GitHub Discussion](https://github.com/google/or-tools/discussions) (beta).
 - [Discord Channel](https://discord.gg/ENkQrdf) Official Chat.
 - [OR-Tools Blog](https://or-tools.blogspot.com/) unmaintained blog.
+- [OR-Tools User's Manual](https://acrogenesis.com/or-tools/documentation/user_manual/index.html) unmaintained manual.
 
 #### Community
 Community produced reading materials
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/or-tools) `[or-tools]` tagged questions.
-- [Xiang Chen's Blog](https://www.xiang.dev/python-or/) Mostly CP-SAT related stuff.
+- [Xiang Chen's Blog](https://www.xiang.dev/tags/#ortools) Mostly CP-SAT related stuff.
 - [Activimetrics's Blog](https://activimetrics.com/tags/google-or-tools/) Mostly routing related stuff.
 
 #### Internal
