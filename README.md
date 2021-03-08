@@ -8,6 +8,7 @@ A curated list of awesome OR-Tools community and official resources.
   - [Officials](#official)
   - [Community](#community)
   - [Internal](#internal)
+- [Watching](#watching) 
 - [Samples](#samples)
   - [Basic samples](#basic-samples)
   - [Advanced samples](#advanced-samples)
@@ -43,6 +44,10 @@ Wrappers:
 - [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md)
 - [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md)
 - [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md)
+
+### Watching
+Google produced watching materials:
+[CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87)
 
 ### Samples
 Samples and models from the community.
