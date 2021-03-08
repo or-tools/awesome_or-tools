@@ -47,7 +47,7 @@ Wrappers:
 
 ### Watching
 Google produced watching materials:
-[CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87)
+- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally
 
 ### Samples
 Samples and models from the community.
