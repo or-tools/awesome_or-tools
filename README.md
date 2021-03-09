@@ -45,6 +45,9 @@ Wrappers:
 - [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md)
 - [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md)
 
+Algorithms:
+- [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
+
 ### Watching
 Google produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
