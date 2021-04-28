@@ -1,4 +1,4 @@
-# Awesome OR-Tools
+# Awesome OR-Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome OR-Tools community and official resources.
 
@@ -41,9 +41,9 @@ Build systems:
 - [Bazel based build](https://github.com/google/or-tools/blob/master/bazel/README.md).
 
 Wrappers:
-- [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md)
-- [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md)
-- [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md)
+- [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md).
+- [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md).
+- [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
 
 Algorithms:
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
