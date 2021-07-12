@@ -31,6 +31,7 @@ Community produced reading materials
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/or-tools) `[or-tools]` tagged questions.
 - [Xiang Chen's Blog](https://www.xiang.dev/tags/#ortools) Mostly CP-SAT related stuff.
 - [Activimetrics's Blog](https://activimetrics.com/tags/google-or-tools/) Mostly routing related stuff.
+- [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML practical example.
 
 #### Internal
 Reading materials related to OR-Tools internals.
