@@ -33,6 +33,7 @@ Community produced reading materials
 - [Activimetrics's Blog](https://activimetrics.com/tags/google-or-tools/) Mostly routing related stuff.
 - [freshcodeit.com](https://freshcodeit.com/google-or-tools) General Presentation.
 - [medium.com](https://medium.com/google-or-tools/google-or-tools-a-guide-39f439a5cd0f) "Google OR Tools A Guide".
+- [oreilly.com](https://www.oreilly.com/library/view/practical-python-ai/9781484234235/) Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools.
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
 
