@@ -36,6 +36,7 @@ Community produced reading materials
 - [oreilly.com](https://www.oreilly.com/library/view/practical-python-ai/9781484234235/) Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools.
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
+- [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
 
 #### Internal
 Reading materials related to OR-Tools internals.
