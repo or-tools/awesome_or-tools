@@ -39,6 +39,7 @@ Community produced reading materials
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
 - [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-SAT.
 - [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
+- [SCM DATA](https://www.supplychaindataanalytics.com/simple-linear-programming-with-google-ortools-in-python/) Simple LP Tutorial.
 - [SCM DATA](https://www.supplychaindataanalytics.com/constraint-programming-for-work-scheduling-with-google-or-tools/) Work scheduling using CP-SAT.
 
 ### Watching
@@ -53,6 +54,7 @@ Community produced watching materials:
 - [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial (Universidad Libre Columbia).
 - [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
 - [OR-Tools を使って数理最適化に触れてみよう](https://youtu.be/DZ2tCPTcLKg).
+- [SCM DATA](https://youtu.be/QdSJgNG2dGw) Work scheduling using CP-SAT.
 
 ### Samples
 Samples and models from the community.
