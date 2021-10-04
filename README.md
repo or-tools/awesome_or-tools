@@ -37,6 +37,9 @@ Community produced reading materials
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
+- [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-SAT.
+- [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
+- [SCM DATA](https://www.supplychaindataanalytics.com/constraint-programming-for-work-scheduling-with-google-or-tools/) Work scheduling using CP-SAT.
 
 ### Watching
 
@@ -46,8 +49,8 @@ Google produced watching materials:
 
 #### Community
 Community produced watching materials:
-- [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).
-- [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial.
+- [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).LP, MIP and Assignment Tutorial (Universidad Libre Columbia).
+- [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial (Universidad Libre Columbia).
 - [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
 - [OR-Tools を使って数理最適化に触れてみよう](https://youtu.be/DZ2tCPTcLKg).
 
