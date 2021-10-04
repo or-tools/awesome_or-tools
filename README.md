@@ -53,7 +53,7 @@ Community produced watching materials:
 - [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).LP, MIP and Assignment Tutorial (Universidad Libre Columbia).
 - [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial (Universidad Libre Columbia).
 - [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
-- [OR-Tools を使って数理最適化に触れてみよう](https://youtu.be/DZ2tCPTcLKg).
+- [OR-Tools を使って数理最適化に触れてみよう](https://www.youtube.com/watch?v=80Gp6wiunkI&t=7726s).
 - [SCM DATA](https://youtu.be/QdSJgNG2dGw) Work scheduling using CP-SAT.
 
 ### Samples
