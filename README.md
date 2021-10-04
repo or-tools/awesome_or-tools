@@ -7,11 +7,11 @@ A curated list of awesome OR-Tools community and official resources.
 - [Reading](#reading)
   - [Officials](#official)
   - [Community](#community)
-  - [Internal](#internal)
 - [Watching](#watching) 
 - [Samples](#samples)
   - [Basic samples](#basic-samples)
   - [Advanced samples](#advanced-samples)
+- [Internal](#internal)
 
 ### Reading
 OR-Tools related reading materials.
@@ -37,22 +37,6 @@ Community produced reading materials
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
-
-#### Internal
-Reading materials related to OR-Tools internals.
-
-Build systems:
-- [CMake Based Build](https://github.com/google/or-tools/blob/master/cmake/README.md).
-- [Make based build](https://github.com/google/or-tools/blob/master/makefiles/README.md).
-- [Bazel based build](https://github.com/google/or-tools/blob/master/bazel/README.md).
-
-Wrappers:
-- [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md).
-- [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md).
-- [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
-
-Algorithms:
-- [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
 
 ### Watching
 
@@ -86,3 +70,19 @@ More advanced or complex examples usually merging few concepts and available (i.
 - [Contrib examples](https://github.com/google/or-tools/tree/stable/examples/contrib) Community contributed examples.
 - [Hakank's examples](https://github.com/hakank/hakank/tree/master/google_or_tools) Dozens of combinatorial problems and puzzles.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
+
+### Internal
+Reading materials related to OR-Tools internals.
+
+Build systems:
+- [CMake Based Build](https://github.com/google/or-tools/blob/master/cmake/README.md).
+- [Make based build](https://github.com/google/or-tools/blob/master/makefiles/README.md).
+- [Bazel based build](https://github.com/google/or-tools/blob/master/bazel/README.md).
+
+Wrappers:
+- [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md).
+- [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md).
+- [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
+
+Algorithms:
+- [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
