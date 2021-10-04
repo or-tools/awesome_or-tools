@@ -43,7 +43,6 @@ Community produced reading materials
 #### Official
 Google produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
-- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
 
 #### Community
 Community produced watching materials:
@@ -85,4 +84,5 @@ Wrappers:
 - [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
 
 Algorithms:
+- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
