@@ -55,9 +55,13 @@ Algorithms:
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
 
 ### Watching
+
+#### Official
 Google produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
+
+#### Community
 Community produced watching materials:
 - [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).
 - [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial.
