@@ -58,6 +58,11 @@ Algorithms:
 Google produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
+Community produced watching materials:
+- [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).
+- [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial.
+- [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
+- [OR-Tools を使って数理最適化に触れてみよう](https://youtu.be/DZ2tCPTcLKg).
 
 ### Samples
 Samples and models from the community.
