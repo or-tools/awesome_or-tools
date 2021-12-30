@@ -78,16 +78,16 @@ More advanced or complex examples usually merging few concepts and available (i.
 ### Internal
 Reading materials related to OR-Tools internals.
 
-Build systems:
+#### Build systems
 - [CMake Based Build](https://github.com/google/or-tools/blob/master/cmake/README.md).
 - [Make based build](https://github.com/google/or-tools/blob/master/makefiles/README.md).
 - [Bazel based build](https://github.com/google/or-tools/blob/master/bazel/README.md).
 
-Wrappers:
+#### Wrappers
 - [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md).
 - [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md).
 - [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
 
-Algorithms:
+#### Algorithms
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
