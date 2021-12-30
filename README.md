@@ -12,6 +12,9 @@ A curated list of awesome OR-Tools community and official resources.
   - [Basic samples](#basic-samples)
   - [Advanced samples](#advanced-samples)
 - [Internal](#internal)
+  - [Build systems](#build-systems)
+  - [Wrappers](#wrappers)
+  - [Algorithms](#algorithms)
 
 ### Reading
 OR-Tools related reading materials.
