@@ -69,27 +69,27 @@ Few canonical samples to advertise basic features of each module, There are usua
 - [Linear Solver samples](https://github.com/google/or-tools/tree/stable/ortools/linear_solver/samples).
 - [Constraint Solver samples](https://github.com/google/or-tools/tree/stable/ortools/constraint_solver/samples) Mostly routing samples.
 - [CP-SAT samples](https://github.com/google/or-tools/tree/stable/ortools/sat/samples).
-- [Glop samples](https://github.com/google/or-tools/tree/master/ortools/glop/samples).
+- [Glop samples](https://github.com/google/or-tools/tree/main/ortools/glop/samples).
 
 #### Advanced samples
 More advanced or complex examples usually merging few concepts and available (i.e. written) in one language.
 - [Miscellaneous examples](https://github.com/google/or-tools/tree/stable/examples).
 - [Contrib examples](https://github.com/google/or-tools/tree/stable/examples/contrib) Community contributed examples.
-- [Hakank's examples](https://github.com/hakank/hakank/tree/master/google_or_tools) Dozens of combinatorial problems and puzzles.
+- [Hakank's examples](https://github.com/hakank/hakank/tree/main/google_or_tools) Dozens of combinatorial problems and puzzles.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
 
 ### Internal
 Reading materials related to OR-Tools internals.
 
 #### Build systems
-- [CMake Based Build](https://github.com/google/or-tools/blob/master/cmake/README.md).
-- [Make based build](https://github.com/google/or-tools/blob/master/makefiles/README.md).
-- [Bazel based build](https://github.com/google/or-tools/blob/master/bazel/README.md).
+- [CMake Based Build](https://github.com/google/or-tools/blob/main/cmake/README.md).
+- [Make based build](https://github.com/google/or-tools/blob/main/makefiles/README.md).
+- [Bazel based build](https://github.com/google/or-tools/blob/main/bazel/README.md).
 
 #### Wrappers
-- [Python wrapper](https://github.com/google/or-tools/blob/master/ortools/python/README.md).
-- [Java wrapper](https://github.com/google/or-tools/blob/master/ortools/java/README.md).
-- [.Net wrapper](https://github.com/google/or-tools/blob/master/ortools/dotnet/README.md).
+- [Python wrapper](https://github.com/google/or-tools/blob/main/ortools/python/README.md).
+- [Java wrapper](https://github.com/google/or-tools/blob/main/ortools/java/README.md).
+- [.Net wrapper](https://github.com/google/or-tools/blob/main/ortools/dotnet/README.md).
 
 #### Algorithms
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
