@@ -17,17 +17,17 @@ A curated list of awesome OR-Tools community and official resources.
   - [Algorithms](#algorithms)
 
 ### Reading
-OR-Tools related reading materials.
+OR-Tools-related reading materials.
 
 #### Official
-Google produced reading materials
+Google-produced reading materials:
 - [Online Documentation](https://developers.google.com/optimization/).
 - [References Documentations](https://google.github.io/or-tools/).
-- [or-tools-discuss](https://groups.google.com/g/or-tools-discuss) Official Mailing list.
+- [or-tools-discuss](https://groups.google.com/g/or-tools-discuss): official mailing list.
 - [GitHub Discussion](https://github.com/google/or-tools/discussions) (beta).
-- [Discord Channel](https://discord.gg/ENkQrdf) Official Chat.
-- [OR-Tools Blog](https://or-tools.blogspot.com/) unmaintained blog.
-- [OR-Tools User's Manual](https://acrogenesis.com/or-tools/documentation/user_manual/index.html) unmaintained manual.
+- [Discord Channel](https://discord.gg/ENkQrdf): official chat.
+- [OR-Tools Blog](https://or-tools.blogspot.com/): unmaintained blog.
+- [OR-Tools User's Manual](https://acrogenesis.com/or-tools/documentation/user_manual/index.html): unmaintained manual.
 
 #### Community
 Community produced reading materials
@@ -53,11 +53,11 @@ Google produced watching materials:
 
 #### Community
 Community produced watching materials:
-- [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84).LP, MIP and Assignment Tutorial (Universidad Libre Columbia).
-- [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA) Routing TSP Tutorial (Universidad Libre Columbia).
+- [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84): LP, MIP and assignment tutorial (Universidad Libre Columbia).
+- [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA): routing TSP tutorial (Universidad Libre Columbia).
 - [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
 - [OR-Tools を使って数理最適化に触れてみよう](https://www.youtube.com/watch?v=80Gp6wiunkI&t=7726s).
-- [SCM DATA](https://youtu.be/QdSJgNG2dGw) Work scheduling using CP-SAT.
+- [SCM DATA](https://youtu.be/QdSJgNG2dGw): job scheduling using CP-SAT.
 
 ### Samples
 Samples and models from the community.
@@ -92,5 +92,5 @@ Reading materials related to OR-Tools internals.
 - [.Net wrapper](https://github.com/google/or-tools/blob/main/ortools/dotnet/README.md).
 
 #### Algorithms
-- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87) How CP-Sat works internally.
-- [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf) SAT Technology presentation.
+- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87): how CP-Sat works internally.
+- [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf): SAT technology presentation.
