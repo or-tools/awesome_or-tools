@@ -5,7 +5,7 @@ A curated list of awesome OR-Tools community and official resources.
 ## Table of Contents
 
 - [Reading](#reading)
-  - [Officials](#official)
+  - [Official](#official)
   - [Community](#community)
 - [Watching](#watching) 
 - [Samples](#samples)
