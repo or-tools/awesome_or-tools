@@ -30,7 +30,7 @@ Google-produced reading materials:
 - [OR-Tools User's Manual](https://acrogenesis.com/or-tools/documentation/user_manual/index.html): unmaintained manual.
 
 #### Community
-Community produced reading materials
+Community-produced reading materials:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/or-tools) `[or-tools]` tagged questions.
 - [Xiang Chen's Blog](https://www.xiang.dev/tags/#ortools) Mostly CP-SAT related stuff.
 - [Activimetrics's Blog](https://activimetrics.com/tags/google-or-tools/) Mostly routing related stuff.
@@ -48,11 +48,11 @@ Community produced reading materials
 ### Watching
 
 #### Official
-Google produced watching materials:
+Google-produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
 
 #### Community
-Community produced watching materials:
+Community-produced watching materials:
 - [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84): LP, MIP and assignment tutorial (Universidad Libre Columbia).
 - [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA): routing TSP tutorial (Universidad Libre Columbia).
 - [Building AI Solutions with Google OR-Tools - Barry Stahl](https://youtu.be/zZAobExOMB0).
