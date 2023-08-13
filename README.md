@@ -114,3 +114,4 @@ Reading materials related to OR-Tools internals.
 #### Algorithms
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87): how CP-Sat works internally.
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf): SAT technology presentation.
+- [CP-SAT Primer](https://github.com/d-krupke/cpsat-primer): A Primer by Dominik Krupke.
