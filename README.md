@@ -116,3 +116,4 @@ Reading materials related to OR-Tools internals.
 - [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87): how CP-Sat works internally.
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf): SAT technology presentation.
 - [CP-SAT Primer](https://github.com/d-krupke/cpsat-primer): A Primer by Dominik Krupke.
+- [EWO Seminar 2023: The CP-SAT-LP solver](http://egon.cheme.cmu.edu/ewo/video/CP_SAT_LP_google.mp4): internals of CP-SAT-LP with [slides](http://egon.cheme.cmu.edu/ewo/docs/CP-SAT%20and%20OR-Tools.pdf).
