@@ -18,9 +18,11 @@ A curated list of awesome OR-Tools community and official resources.
   - [Algorithms](#algorithms)
 
 ### Reading
+
 OR-Tools-related reading materials.
 
 #### Official
+
 Google-produced reading materials:
 - [Online Documentation](https://developers.google.com/optimization/).
 - [References Documentations](https://google.github.io/or-tools/).
@@ -31,6 +33,7 @@ Google-produced reading materials:
 - [OR-Tools User's Manual](https://acrogenesis.com/or-tools/documentation/user_manual/index.html): unmaintained manual.
 
 #### Community
+
 Community-produced reading materials:
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/or-tools) `[or-tools]` tagged questions.
 - [Xiang Chen's Blog](https://www.xiang.dev/tags/#ortools) Mostly CP-SAT related stuff.
@@ -47,6 +50,7 @@ Community-produced reading materials:
 - [SCM DATA](https://www.supplychaindataanalytics.com/constraint-programming-for-work-scheduling-with-google-or-tools/) Work scheduling using CP-SAT.
 
 #### Research
+
 Research articles using OR-Tools solvers and technologies.
 
 - CP-SAT:
@@ -69,10 +73,12 @@ Research articles using OR-Tools solvers and technologies.
 ### Watching
 
 #### Official
+
 Google-produced watching materials:
 - [OR-tools](https://youtu.be/AJ6LeiMe_PQ) General presentation by Pawel Lichocki.
 
 #### Community
+
 Community-produced watching materials:
 - [Primera sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/XPiDrFl5S84): LP, MIP and assignment tutorial (Universidad Libre Columbia).
 - [Segunda sesión - "Optimización con Google OR Tools + Python"](https://youtu.be/KxXut49BwUA): routing TSP tutorial (Universidad Libre Columbia).
@@ -81,9 +87,11 @@ Community-produced watching materials:
 - [SCM DATA](https://youtu.be/QdSJgNG2dGw): job scheduling using CP-SAT.
 
 ### Samples
+
 Samples and models from the community.
 
 #### Basic samples
+
 Few canonical samples to advertise basic features of each module, There are usually written in all supported languages.
 - [Algorithms samples](https://github.com/google/or-tools/tree/stable/ortools/algorithms/samples).
 - [Graph samples](https://github.com/google/or-tools/tree/stable/ortools/graph/samples).
@@ -93,6 +101,7 @@ Few canonical samples to advertise basic features of each module, There are usua
 - [Glop samples](https://github.com/google/or-tools/tree/main/ortools/glop/samples).
 
 #### Advanced samples
+
 More advanced or complex examples usually merging few concepts and available (i.e. written) in one language.
 - [Miscellaneous examples](https://github.com/google/or-tools/tree/stable/examples).
 - [Contrib examples](https://github.com/google/or-tools/tree/stable/examples/contrib) Community contributed examples.
@@ -100,20 +109,24 @@ More advanced or complex examples usually merging few concepts and available (i.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
 
 ### Internal
+
 Reading materials related to OR-Tools internals.
 
 #### Build systems
+
 - [CMake Based Build](https://github.com/google/or-tools/blob/main/cmake/README.md).
 - [Make based build](https://github.com/google/or-tools/blob/main/makefiles/README.md).
 - [Bazel based build](https://github.com/google/or-tools/blob/main/bazel/README.md).
 
 #### Wrappers
+
 - [Python wrapper](https://github.com/google/or-tools/blob/main/ortools/python/README.md).
 - [Java wrapper](https://github.com/google/or-tools/blob/main/ortools/java/README.md).
 - [.Net wrapper](https://github.com/google/or-tools/blob/main/ortools/dotnet/README.md).
 
 #### Algorithms
-- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87): how CP-Sat works internally.
+
 - [Search is Dead, Long Live Proof](https://people.eng.unimelb.edu.au/pstuckey/PPDP2013.pdf): SAT technology presentation and [talk](https://www.youtube.com/watch?v=lxiCHRFNgno).
+- [CPAIOR 2020: CP-SAT](https://youtu.be/lmy1ddn4cyw?t=87): how CP-Sat works internally.
 - [CP-SAT Primer](https://github.com/d-krupke/cpsat-primer): A Primer by Dominik Krupke.
 - [EWO Seminar 2023: The CP-SAT-LP solver](http://egon.cheme.cmu.edu/ewo/video/CP_SAT_LP_google.mp4): internals of CP-SAT-LP with [slides](http://egon.cheme.cmu.edu/ewo/docs/CP-SAT%20and%20OR-Tools.pdf).
