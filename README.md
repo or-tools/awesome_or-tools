@@ -47,7 +47,8 @@ Community-produced reading materials:
 - [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-SAT.
 - [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
 - [SCM DATA](https://www.supplychaindataanalytics.com/simple-linear-programming-with-google-ortools-in-python/) Simple LP Tutorial.
-- [SCM DATA](https://www.supplychaindataanalytics.com/constraint-programming-for-work-scheduling-with-google-or-tools/) Work scheduling using CP-SAT.
+
+  
 
 #### Research
 
@@ -105,7 +106,7 @@ Few canonical samples to advertise basic features of each module, There are usua
 More advanced or complex examples usually merging few concepts and available (i.e. written) in one language.
 - [Miscellaneous examples](https://github.com/google/or-tools/tree/stable/examples).
 - [Contrib examples](https://github.com/google/or-tools/tree/stable/examples/contrib) Community contributed examples.
-- [Hakank's examples](https://github.com/hakank/hakank/tree/main/google_or_tools) Dozens of combinatorial problems and puzzles.
+- [Hakank's examples](https://github.com/hakank/hakank/tree/master/google_or_tools) Dozens of combinatorial problems and puzzles.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
 
 ### Internal
