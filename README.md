@@ -44,7 +44,12 @@ Community-produced reading materials:
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
-- [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-SAT.
+- [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-
+- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/Secret_Santa_Circuit_Advanced_CP.ipynb) Secret Santa.
+- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/vertex_rectangle.ipynb) Monochrome Rectangle.
+- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/15_Puzzle_IBM_Git.ipynb) IBM Ponder this Challeneg 15-Puzzle.
+
+SAT.
 - [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
 - [SCM DATA](https://www.supplychaindataanalytics.com/simple-linear-programming-with-google-ortools-in-python/) Simple LP Tutorial.
 - [SCM DATA](https://www.supplychaindataanalytics.com/constraint-programming-for-work-scheduling-with-google-or-tools/) Work scheduling using CP-SAT.
