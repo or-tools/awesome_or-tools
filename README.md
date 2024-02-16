@@ -41,6 +41,9 @@ Community-produced reading materials:
 - [freshcodeit.com](https://freshcodeit.com/google-or-tools) General Presentation.
 - [medium.com](https://medium.com/google-or-tools/google-or-tools-a-guide-39f439a5cd0f) "Google OR Tools A Guide".
 - [oreilly.com](https://www.oreilly.com/library/view/practical-python-ai/9781484234235/) Practical Python AI Projects: Mathematical Models of Optimization Problems with Google OR-Tools.
+- [mlabonne.github.io](https://mlabonne.github.io/blog/posts/2022-03-02-Linear_Programming.html) Introduction to Linear Programming in Python.
+- [mlabonne.github.io](https://mlabonne.github.io/blog/posts/2022-03-05-Integer_Programming.html) Introduction to Integer Programming in Python.
+- [mlabonne.github.io](https://mlabonne.github.io/blog/posts/2022-05-02-Constraint_Programming.html) Introduction to Constraint Programming in Python.
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML
   practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
