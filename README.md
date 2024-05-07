@@ -50,7 +50,6 @@ Community-produced reading materials:
 - Optimization Expert repository (CP-SAT)
   - [Secret Santa](https://github.com/OptimizationExpert/Pyomo/blob/main/Secret_Santa_Circuit_Advanced_CP.ipynb).
   - [Monochrome Rectangle](https://github.com/OptimizationExpert/Pyomo/blob/main/vertex_rectangle.ipynb) 
-  - [IBM Ponder this Challenge 15-Puzzle.](https://github.com/OptimizationExpert/Pyomo/blob/main/15_Puzzle_IBM_Git.ipynb) 
   - [Optimal Order Picking](https://github.com/OptimizationExpert/Pyomo/blob/main/storage_routing.ipynb) 
   - [Suguru Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) 
   - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
