@@ -47,9 +47,14 @@ Community-produced reading materials:
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
 - [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-
-- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/Secret_Santa_Circuit_Advanced_CP.ipynb) Secret Santa.
-- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/vertex_rectangle.ipynb) Monochrome Rectangle.
-- [Optimization Expert](https://github.com/OptimizationExpert/Pyomo/blob/main/15_Puzzle_IBM_Git.ipynb) IBM Ponder this Challeneg 15-Puzzle.
+- Optimization Expert repository (CP-SAT)
+  - [Secret Santa](https://github.com/OptimizationExpert/Pyomo/blob/main/Secret_Santa_Circuit_Advanced_CP.ipynb).
+  - [Monochrome Rectangle](https://github.com/OptimizationExpert/Pyomo/blob/main/vertex_rectangle.ipynb) 
+  - [IBM Ponder this Challenge 15-Puzzle.](https://github.com/OptimizationExpert/Pyomo/blob/main/15_Puzzle_IBM_Git.ipynb) 
+  - [Optimal Order Picking](https://github.com/OptimizationExpert/Pyomo/blob/main/storage_routing.ipynb) 
+  - [Suguru Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) 
+  - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
+  - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
 - [Philippe Olivier](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html) Domino Fit.
 
 SAT.
