@@ -54,7 +54,7 @@ Community-produced reading materials:
   - [Suguru Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) 
   - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
   - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
-- [Philippe Olivier](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html) Domino Fit.
+- [Philippe Olivier](https://pedtsr.ca) Some CP-SAT examples.
 
 SAT.
 - [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
