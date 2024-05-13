@@ -54,7 +54,11 @@ Community-produced reading materials:
   - [Suguru Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) 
   - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
   - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
-- [Philippe Olivier](https://pedtsr.ca) Some CP-SAT examples.
+- [Philippe Olivier's Blog](https://pedtsr.ca) (CP-SAT examples)
+  - [Solving Domino Fit](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
+  - [Land Lot Optimization](https://pedtsr.ca/2023/land-lot-optimization.html)
+  - [Crossword Generation](https://pedtsr.ca/2023/generating-crossword-grids-using-constraint-programming.html)
+  - [MOBA Hero Rotations](https://pedtsr.ca/2023/optimizing-moba-free-hero-rotations.html)
 
 SAT.
 - [Prescient Analytics](https://www.prescient.consulting/blogs/post/First-Look-OR-Tools) First Look at OR-Tools.
