@@ -54,6 +54,7 @@ Community-produced reading materials:
   - [Suguru Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) 
   - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
   - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
+  - [Linkedin Queen Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Linkedin_CP_Puzzle.ipynb)
 - [Philippe Olivier's Blog](https://pedtsr.ca) (CP-SAT examples)
   - [Solving Domino Fit](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
   - [Land Lot Optimization](https://pedtsr.ca/2023/land-lot-optimization.html)
