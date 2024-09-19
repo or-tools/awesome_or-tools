@@ -25,7 +25,7 @@ OR-Tools-related reading materials.
 
 Google-produced reading materials:
 - [Online Documentation](https://developers.google.com/optimization/).
-- [References Documentations](https://google.github.io/or-tools/).
+- [References Documentations](https://or-tools.github.io/docs/).
 - [or-tools-discuss](https://groups.google.com/g/or-tools-discuss): official mailing list.
 - [GitHub Discussion](https://github.com/google/or-tools/discussions) (beta).
 - [Discord Channel](https://discord.gg/ENkQrdf): official chat.
