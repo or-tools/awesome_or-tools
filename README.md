@@ -47,7 +47,7 @@ Community-produced reading materials:
 - [Scheduling optimization in blending plants](https://medium.com/total-digital-factory/scheduling-optimization-in-blending-plants-ef53c460f8e0) CP-SAT + ML practical example.
 - [kaggle.com](https://www.kaggle.com/jpmiller/application-of-google-or-tools) Assignment and Routing example.
 - [Yet Another Math Programming Consultant](http://yetanothermathprogrammingconsultant.blogspot.com/2021/02/2d-bin-packing-with-google-or-tools-cp.html) 2D Bin packing with Google OR-Tools CP-
-- Optimization Expert repository (CP-SAT)
+- [Alireza Soroudi's git repository](https://github.com/OptimizationExpert/Pyomo) (CP-SAT examples)
   - [Secret Santa](https://github.com/OptimizationExpert/Pyomo/blob/main/Secret_Santa_Circuit_Advanced_CP.ipynb).
   - [Monochrome Rectangle](https://github.com/OptimizationExpert/Pyomo/blob/main/vertex_rectangle.ipynb) 
   - [Optimal Order Picking](https://github.com/OptimizationExpert/Pyomo/blob/main/storage_routing.ipynb) 
@@ -55,6 +55,7 @@ Community-produced reading materials:
   - [Optimal Movie Shooting Sequence](https://github.com/OptimizationExpert/Pyomo/blob/main/Movie_shooting.ipynb) 
   - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
   - [Linkedin Queen Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Linkedin_CP_Puzzle.ipynb)
+  - [Linkedin TANGO Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/TANGO_of_Linkedin_CP_Puzzle.ipynb)
 - [Philippe Olivier's Blog](https://pedtsr.ca) (CP-SAT examples)
   - [Solving Domino Fit](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
   - [Land Lot Optimization](https://pedtsr.ca/2023/land-lot-optimization.html)
