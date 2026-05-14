@@ -127,6 +127,7 @@ More advanced or complex examples usually merging few concepts and available (i.
 - [Contrib examples](https://github.com/google/or-tools/tree/stable/examples/contrib) Community contributed examples.
 - [Hakank's examples](https://github.com/hakank/hakank/tree/main/google_or_tools) Dozens of combinatorial problems and puzzles.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
+- [Packrift carton selection example](https://github.com/Packrift/packaging-optimization-benchmark-corpus/tree/main/examples/ortools-carton-selection) CP-SAT example that screens static packaging carton candidates by orientation and relaxed volume constraints.
 
 ### Internal
 
