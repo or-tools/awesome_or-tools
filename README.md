@@ -144,6 +144,7 @@ Reading materials related to OR-Tools internals.
 - [Python wrapper](https://github.com/google/or-tools/blob/main/ortools/python/README.md).
 - [Java wrapper](https://github.com/google/or-tools/blob/main/ortools/java/README.md).
 - [.Net wrapper](https://github.com/google/or-tools/blob/main/ortools/dotnet/README.md).
+- [TypeScript/WebAssembly wrapper](https://github.com/Axelwickm/or-tools-wasm).
 
 #### Algorithms
 
