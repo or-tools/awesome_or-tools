@@ -56,6 +56,8 @@ Community-produced reading materials:
   - [Magic square](https://github.com/OptimizationExpert/Pyomo/blob/main/MagicSquare.ipynb)
   - [Linkedin Queen Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/Linkedin_CP_Puzzle.ipynb)
   - [Linkedin TANGO Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/TANGO_of_Linkedin_CP_Puzzle.ipynb)
+  - [Tower Puzzle](https://github.com/OptimizationExpert/Pyomo/blob/main/tower_puzzle.py)
+  - [Max sum Path](https://github.com/OptimizationExpert/Pyomo/blob/main/maxpasssum.py)
 - [Philippe Olivier's Blog](https://pedtsr.ca) (CP-SAT examples)
   - [Solving Domino Fit](https://pedtsr.ca/2024/solving-domino-fit-using-constraint-programming.html)
   - [Land Lot Optimization](https://pedtsr.ca/2023/land-lot-optimization.html)
