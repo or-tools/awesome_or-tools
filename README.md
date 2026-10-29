@@ -134,6 +134,7 @@ More advanced or complex examples usually merging few concepts and available (i.
 - [Hakank's examples](https://github.com/hakank/hakank/tree/main/google_or_tools) Dozens of combinatorial problems and puzzles.
 - [MrBenGriffin's examples](https://github.com/MrBenGriffin/or-tools-fun) Models (Delegate Seating) and puzzle solvers.
 - [Packrift carton selection example](https://github.com/Packrift/packaging-optimization-benchmark-corpus/tree/main/examples/ortools-carton-selection) CP-SAT example that screens static packaging carton candidates by orientation and relaxed volume constraints.
+- [Production Scheduling MCP](https://github.com/ArchiPlan-io/production-scheduling-mcp) CP-SAT job-shop model (Python) that schedules order steps on alternative machines around downtime and due dates, served as an MCP server so AI assistants can call it.
 
 ### Internal
 
